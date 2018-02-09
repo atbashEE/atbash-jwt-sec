@@ -1,0 +1,21 @@
+=========================================================================
+==  NOTICE file corresponding to section 4(d) of the Apache License,   ==
+==  Version 2.0, in this case for Atbash JWT Sec                       ==
+=========================================================================
+
+This product includes software developed at
+The Apache Software Foundation (http://www.apache.org/).
+
+Portions of this software were originally based on the following:
+* MicroProfile JWT Auth API
+  https://github.com/eclipse/microprofile-jwt-auth/api
+  under Apache License, v2.0
+
+* OmniSecurity
+  https://github.com/omnifaces/omnisecurity
+  under Apache License, v2.0
+
+Special case (used as maven dependency)
+* reflections
+  https://github.com/ronmamo/reflections
+  under WTFPL ("Public License" and code usage discussed here https://github.com/ronmamo/reflections/issues/159)
